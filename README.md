@@ -1,7 +1,7 @@
-# DTP-Net
-DTP-Net: A convolutional neural network model to predict threshold for localizing the lesions on dermatological macro-images
+# DTP-Net: A convolutional neural network model to predict threshold for localizing the lesions on dermatological macro-images
 
-**This repository contains Dermatological Macro-images with Optimal Threshold values**
+
+**This repository contains Dermatological Macro-images with Optimal Threshold values and the Matlab codes**
 
 If any data or code is used, please cite as:
 **Vipin Venugopal, Justin Joseph, M. Vipin Das, Malaya Kumar Nath, “DTP-Net: A convolutional neural network model to predict threshold for localizing the lesions on dermatological macro-images”, Computers in Biology and Medicine, Volume 148, 2022, 105852 https://doi.org/10.1016/j.compbiomed.2022.105852**
