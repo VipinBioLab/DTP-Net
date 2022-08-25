@@ -1,7 +1,7 @@
 # DTP-Net: A convolutional neural network model to predict threshold for localizing the lesions on dermatological macro-images
 
 
-**This repository contains Dermatological Macro-images with Optimal Threshold values and the Matlab codes**
+**This repository contains dermatological macro-images with optimal threshold values and the Matlab codes**
 
 If any data or code is used, please cite as:
 
