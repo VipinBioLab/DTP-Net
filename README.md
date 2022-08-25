@@ -8,5 +8,5 @@ If any data or code is used, please cite as:
 
 **To run the Matlab code**
 1. Use the grayscale version of macro-images and the corresponding threshold value given in the .csv files named Train and Test.
-2. Aug1 to Aug9 folder contains the augmented versions of the original image.
+2. Aug1 to Aug9 folder contains the augmented versions of the original grayscale images.
 3. We have split the dataset into train and test.
