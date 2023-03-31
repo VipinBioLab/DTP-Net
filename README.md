@@ -14,7 +14,7 @@ If any data or code is used, please cite as:
 
 
 
-**To train the DTP-Net**
+# To train the DTP-Net
 1. Use the grayscale version of macro-images and the corresponding threshold value given in the .csv files named Train and Test.
 2. Aug1 to Aug9 folder contains the augmented versions of the original grayscale images.
 3. To download the dataset fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSevsHkBhSHUbzRaHttpmnd6YzK8GUydxLo0lTeuw7_1RlbQrw/viewform) and contact us and we can provide a link to all the images.
